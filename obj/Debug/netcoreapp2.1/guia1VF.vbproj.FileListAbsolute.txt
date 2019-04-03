@@ -1,0 +1,11 @@
+C:\Users\Geovanny\source\repos\guia1VF\guia1VF\bin\Debug\netcoreapp2.1\guia1VF.deps.json
+C:\Users\Geovanny\source\repos\guia1VF\guia1VF\bin\Debug\netcoreapp2.1\guia1VF.runtimeconfig.json
+C:\Users\Geovanny\source\repos\guia1VF\guia1VF\bin\Debug\netcoreapp2.1\guia1VF.runtimeconfig.dev.json
+C:\Users\Geovanny\source\repos\guia1VF\guia1VF\bin\Debug\netcoreapp2.1\guia1VF.dll
+C:\Users\Geovanny\source\repos\guia1VF\guia1VF\bin\Debug\netcoreapp2.1\guia1VF.pdb
+C:\Users\Geovanny\source\repos\guia1VF\guia1VF\obj\Debug\netcoreapp2.1\guia1VF.vbprojAssemblyReference.cache
+C:\Users\Geovanny\source\repos\guia1VF\guia1VF\obj\Debug\netcoreapp2.1\guia1VF.vbproj.CoreCompileInputs.cache
+C:\Users\Geovanny\source\repos\guia1VF\guia1VF\obj\Debug\netcoreapp2.1\guia1VF.AssemblyInfoInputs.cache
+C:\Users\Geovanny\source\repos\guia1VF\guia1VF\obj\Debug\netcoreapp2.1\guia1VF.AssemblyInfo.vb
+C:\Users\Geovanny\source\repos\guia1VF\guia1VF\obj\Debug\netcoreapp2.1\guia1VF.dll
+C:\Users\Geovanny\source\repos\guia1VF\guia1VF\obj\Debug\netcoreapp2.1\guia1VF.pdb
